@@ -1,19 +1,8 @@
-# Competition/Project Name - Details
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* Contributor 1
-* Contributor 2
-* Contributor 3
-
-### Tools
-* Tools 1
-* Tools 1
-* Tools 1
+# Open Registration RISTEK
 
 ## References
-* [References 1](URL)
-* [References 2](URL)
+* [Hands-on Exploratory Data Analysis with Python](https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253)
+* [Titanic Kaggle](https://www.kaggle.com/reighns/titanic-a-complete-beginner-s-guide)
 * [References 3](URL)
 
 Project Organization
