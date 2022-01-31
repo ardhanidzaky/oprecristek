@@ -3,7 +3,6 @@
 ## References
 * [Hands-on Exploratory Data Analysis with Python](https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253)
 * [Titanic Kaggle](https://www.kaggle.com/reighns/titanic-a-complete-beginner-s-guide)
-* [References 3](URL)
 
 Project Organization
 ------------
